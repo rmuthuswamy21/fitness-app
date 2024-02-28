@@ -1,5 +1,5 @@
 # PhontenotPhitness
-
+# Group Project for CS3200: Rahul, Vid, Armaan, Reagan, Will
 This repo contains: 
 1. A MySQL 8 container for obvious reasons
 2. A Python Flask container to implement a REST API
